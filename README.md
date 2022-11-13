@@ -1,7 +1,6 @@
 ## 💫 About Me:
-👋 Hi, I’m Raden Bimo<br><br>I 'm an entry level data scientist. I'm a Data Scientist Engineer from Indonesia who always hungry for knowledge.<br><br>My love working and doing something related in tech lead me into a data science world. so in my free time i love to build project for me to develop my skill.<br>
+👋 Hi, I’m Raden Bimo<br><br>I 'm an entry level data scientist. I'm a Data Scientist Engineer from Indonesia who always hungry for knowledge.<br><br>My love working and doing something related in tech lead me into a data science world. so in my free time i love to build project for me to develop my skill.<br><br>
 🚀 I’m alumnus of data science bootcamp on dibimbing.id<br><br> <br>How to reach me: rbimomandalaputra@gmail.com;<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raden_bimo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/radenbimo) 
